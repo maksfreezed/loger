@@ -1,0 +1,56 @@
+2017.5.19. - NEW START OF PROGRAMM !!! (11:3:32)
+11:3:32:625 - Crete new class array
+11:3:32:640 - init array with rand number
+11:3:32:640 - Crete new class array
+11:3:32:656 - show array
+11:3:32:671 - show array
+11:3:32:687 - show array
+11:3:32:687 - Crete new class array
+11:3:32:703 - Crete new class array
+11:3:32:718 - init array with rand number
+11:3:32:734 - show array
+11:3:32:734 - show array
+11:3:32:750 - destruct
+11:3:32:765 - destruct
+2017.5.19. - NEW START OF PROGRAMM !!! (14:4:37)
+14:4:37:780 - Crete new class array
+14:4:37:795 - init array with rand number
+14:4:37:795 - Crete new class array
+14:4:37:811 - show array
+14:4:37:826 - show array
+14:4:37:842 - show array
+14:4:37:858 - Crete new class array
+14:4:37:858 - Crete new class array
+14:4:37:873 - init array with rand number
+14:4:37:873 - show array
+14:4:37:911 - show array
+14:4:37:920 - destruct
+14:4:37:926 - destruct
+2017.5.19. - NEW START OF PROGRAMM !!! (14:6:30)
+14:6:30:161 - Crete new class array
+14:6:30:176 - init array with rand number
+14:6:30:176 - Crete new class array
+14:6:30:192 - show array
+14:6:30:208 - show array
+14:6:30:208 - show array
+14:6:30:223 - Crete new class array
+14:6:30:239 - Crete new class array
+14:6:30:239 - init array with rand number
+14:6:30:266 - show array
+14:6:30:277 - show array
+14:6:30:278 - destruct
+14:6:30:294 - destruct
+2017.6.5. - NEW START OF PROGRAMM !!! (13:51:10)
+13:51:10:624 - Crete new class array
+13:51:10:634 - init array with rand number
+13:51:10:643 - Crete new class array
+13:51:10:654 - show array
+13:51:10:668 - show array
+13:51:10:680 - show array
+13:51:10:690 - Crete new class array
+13:51:10:700 - Crete new class array
+13:51:10:712 - init array with rand number
+13:51:10:723 - show array
+13:51:10:831 - show array
+13:51:10:841 - destruct
+13:51:10:851 - destruct
